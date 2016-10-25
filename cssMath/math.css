@@ -1,0 +1,157 @@
+@charset "utf-8";
+
+body {
+	width: 1920px;
+	height: 1080px;
+	background-image: url("fond.png");
+	position: fixed;
+}
+
+.select_btn {
+	border: solid 4px white;
+	box-shadow: 6px 6px 20px 10px gray;
+}
+
+.main_btn {
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+	#btn_2
+{
+	background-image : url(XMLID_17_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1319px;
+	top : 654px;
+	width : 67px;
+	height : 64px;
+}
+#btn_1
+{
+	background-image : url(XMLID_10_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 628px;
+	top : 542px;
+	width : 67px;
+	height : 64px;
+}
+.XMLID_71_
+{
+	border-style : Solid;
+	border-color : #0F7A9F;
+	border-color : rgba(15, 122, 159, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 1432px;
+	top : 659px;
+	width : 121px;
+	height : 118px;
+}
+.XMLID_18_
+{
+	background-image : url(XMLID_18_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1424px;
+	top : 633px;
+	width : 121px;
+	height : 197px;
+}
+.XMLID_8_
+{
+	background-image : url(XMLID_8_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 8px;
+	top : 591px;
+	width : 267px;
+	height : 490px;
+}
+.XMLID_64_
+{
+	border-style : Solid;
+	border-color : #0F7A9F;
+	border-color : rgba(15, 122, 159, 1);
+	border-width : 0px;
+	position : absolute ;
+	left : 1498px;
+	top : 719px;
+	width : 7px;
+	height : 11px;
+}
+.XMLID_3_
+{
+	background-image : url(XMLID_3_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 64px;
+	top : 38px;
+	width : 257px;
+	height : 169px;
+}
+.XMLID_11_
+{
+	background-image : url(XMLID_11_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 653px;
+	top : 432px;
+	width : 711px;
+	height : 388px;
+}
+.XMLID_1_
+{
+	background : #F7E8D0;
+	background : rgba(247, 232, 208, 1);
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 2px;
+	top : 4px;
+	width : 1920px;
+	height : 1079px;
+}
+.Styledecaractresnormal2
+{
+	font-family : Bebas Neue;
+	font-weight : bold;
+	font-size : 85px;
+	color : #EEB01E;
+	color : rgb(238, 176, 30);
+}
+.Styledecaractresnormal
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 59px;
+	color : #38A8DF;
+	color : rgb(56, 168, 223);
+}
+.Styledecaractresnormal1
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 59px;
+	color : #EEB01E;
+	color : rgb(238, 176, 30);
+}
+.Styledecaractresnormal4
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 79px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal3
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 141px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}

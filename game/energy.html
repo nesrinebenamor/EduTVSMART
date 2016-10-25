@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Games, Movies, and Miscellaneous!</title>
+	<script type="text/javascript" src="../js/jquery-1.9.1.js"></script>
+	<script type="text/javascript" src="../js/TVKeyValue.js"></script>
+	<link href='https://fonts.googleapis.com/css?family=Press+Start+2P' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	<link rel="stylesheet" href="energy.css">
+	<script type="text/javascript" src="energy.js"></script>
+	
+</head>
+<body>
+
+
+<!-- START PAGE FOR THE QUIZ -->
+<div class="container text-center StartPage">
+<center>
+	<h2 class="Score"></h2>
+	<button class="StartButton main_btn" id="btn_4">Start</button>
+</center>
+</div>
+
+<!-- QUESTION PAGE -->
+<div class="container text-center QuestionPage">
+<center>
+	<h1 class="Question"></h1>
+	<h2 class="TimeLeft">15</h2>
+	<button class="choice0 main_btn" id="btn_0" ></button><br>
+	<button class="choice1 main_btn" id="btn_1"></button><br>
+	<button class="choice2  main_btn" id="btn_2"></button><br>
+	<button class="choice3  main_btn" id="btn_3"></button><br>
+</center>
+</div>
+
+<div class="container text-center GameOver">
+<center>
+	<h2 class="OverMessage">GAME OVER!</h2>
+	<h2 class="Score"></h2>
+	<button class="ResetGame plBt">Play Again</button>
+</center>
+</div>
+</body>
+</html>

@@ -1,0 +1,236 @@
+@charset "utf-8";
+
+body {
+	width: 1920px;
+	height: 1080px;
+	background-image: url("fond.png");
+	position: fixed;
+}
+
+.select_btn {
+	border: solid 4px white;
+	box-shadow: 6px 6px 20px 10px gray;
+}
+
+.main_btn {
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+	.XMLID_8_
+{
+	background-image : url(XMLID_8_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 8px;
+	top : 591px;
+	width : 267px;
+	height : 490px;
+}
+.XMLID_3_
+{
+	background-image : url(XMLID_3_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 64px;
+	top : 38px;
+	width : 257px;
+	height : 169px;
+}
+.XMLID_1_
+{
+	background : #F7E8D0;
+	background : rgba(247, 232, 208, NaN);
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, NaN);
+	border-width : 1px;
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+	width : 1920px;
+	height : 1079px;
+}
+.Styledecaractresnormal3
+{
+	font-family : Showcard Gothic;
+	font-size : 35px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Styledecaractresnormal2
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 70px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal1
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 70px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 70px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal5
+{
+	font-family : Showcard Gothic;
+	font-size : 35px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Styledecaractresnormal4
+{
+	font-family : Showcard Gothic;
+	font-size : 35px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+#btn_2
+{
+	background-image : url(XMLID_83_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1491px;
+	top : 536px;
+	width : 167px;
+	height : 23px;
+}
+.XMLID_38_
+{
+	background-image : url(XMLID_38_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1472px;
+	top : 166px;
+	width : 213px;
+	height : 267px;
+}
+#btn_3
+{
+	background-image : url(XMLID_72_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1147px;
+	top : 1021px;
+	width : 328px;
+	height : 23px;
+}
+.XMLID_25_
+{
+	background-image : url(XMLID_25_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 370px;
+	top : 370px;
+	width : 217px;
+	height : 158px;
+}
+.XMLID_23_
+{
+	background-image : url(XMLID_23_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 200px;
+	top : 330px;
+	width : 241px;
+	height : 227px;
+}
+#btn_1
+{
+	background-image : url(XMLID_85_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 335px;
+	top : 692px;
+	width : 186px;
+	height : 24px;
+}
+.XMLID_87_
+{
+	background-image : url(XMLID_87_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1498px;
+	top : 654px;
+	width : 268px;
+	height : 356px;
+}
+.XMLID_20_
+{
+	background-image : url(XMLID_20_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 640px;
+	top : 253px;
+	width : 699px;
+	height : 610px;
+}
+.XMLID_31_
+{
+	background-image : url(XMLID_31_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 389px;
+	top : 229px;
+	width : 232px;
+	height : 202px;
+}
+.Styledecaractresnormal7
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 79px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal6
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 141px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}

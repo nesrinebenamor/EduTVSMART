@@ -1,0 +1,838 @@
+@charset "utf-8";
+
+body {
+	width: 1920px;
+	height: 1080px;
+	background-image: url("geographie.png");
+	position: fixed;
+}
+
+	.XMLID_3_
+{
+	background-image : url(XMLID_3_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 26px;
+	top : 32px;
+	width : 207px;
+	height : 126px;
+}
+.Styledecaractresnormal
+{
+	font-family : Agency FB;
+	font-size : 150px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal1
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 60px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.XMLID_10_
+{
+	background-image : url(XMLID_10_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 238px;
+	top : 164px;
+	width : 567px;
+	height : 653px;
+}
+.XMLID_622_
+{
+	background : #5AC2B0;
+	background : rgba(90, 194, 176, 1);
+	position : absolute ;
+	left : 615px;
+	top : 1019px;
+	width : 6px;
+	height : 3px;
+}
+.XMLID_23_
+{
+	background : #5AC2B0;
+	background : rgba(90, 194, 176, 1);
+	position : absolute ;
+	left : 615px;
+	top : 1019px;
+	width : 6px;
+	height : 3px;
+}
+.XMLID_24_
+{
+	background-image : url(XMLID_24_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 511px;
+	top : 808px;
+	width : 181px;
+	height : 235px;
+}
+.XMLID_1_1
+{
+	background : #F9EAD0;
+	background : rgba(249, 234, 208, 1);
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+	width : 1920px;
+	height : 1080px;
+}
+.XMLID_21_
+{
+	background-image : url(XMLID_21_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 511px;
+	top : 808px;
+	width : 181px;
+	height : 235px;
+}
+.XMLID_90_
+{
+	background-image : url(XMLID_90_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 646px;
+	top : 422px;
+	width : 26px;
+	height : 486px;
+}
+.XMLID_34_
+{
+	background-image : url(XMLID_34_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 563px;
+	top : 353px;
+	width : 171px;
+	height : 27px;
+}
+.XMLID_904_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1056px;
+	top : 529px;
+	width : 14px;
+	height : 7px;
+}
+.XMLID_901_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1163px;
+	top : 532px;
+	width : 29px;
+	height : 9px;
+}
+.XMLID_898_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1043px;
+	top : 551px;
+	width : 54px;
+	height : 35px;
+}
+.XMLID_807_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1323px;
+	top : 551px;
+	width : 26px;
+	height : 11px;
+}
+.XMLID_792_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1390px;
+	top : 687px;
+	width : 24px;
+	height : 14px;
+}
+.XMLID_789_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1362px;
+	top : 701px;
+	width : 42px;
+	height : 40px;
+}
+.XMLID_786_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 959px;
+	top : 724px;
+	width : 10px;
+	height : 4px;
+}
+.XMLID_783_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1327px;
+	top : 761px;
+	width : 11px;
+	height : 11px;
+}
+.XMLID_659_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1181px;
+	top : 810px;
+	width : 10px;
+	height : 11px;
+}
+.XMLID_662_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1347px;
+	top : 795px;
+	width : 26px;
+	height : 17px;
+}
+.XMLID_674_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1292px;
+	top : 781px;
+	width : 8px;
+	height : 8px;
+}
+.XMLID_677_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1333px;
+	top : 780px;
+	width : 16px;
+	height : 12px;
+}
+.XMLID_653_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1239px;
+	top : 823px;
+	width : 39px;
+	height : 34px;
+}
+.XMLID_656_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1292px;
+	top : 821px;
+	width : 41px;
+	height : 37px;
+}
+.XMLID_650_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1331px;
+	top : 836px;
+	width : 22px;
+	height : 22px;
+}
+.XMLID_641_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1279px;
+	top : 859px;
+	width : 41px;
+	height : 12px;
+}
+.XMLID_503_
+{
+	background-image : url(XMLID_503_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 834px;
+	top : 546px;
+	width : 692px;
+	height : 293px;
+}
+.XMLID_441_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1056px;
+	top : 529px;
+	width : 14px;
+	height : 7px;
+}
+.XMLID_438_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1163px;
+	top : 532px;
+	width : 29px;
+	height : 9px;
+}
+.XMLID_435_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1043px;
+	top : 551px;
+	width : 54px;
+	height : 35px;
+}
+.XMLID_432_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1323px;
+	top : 551px;
+	width : 26px;
+	height : 11px;
+}
+.XMLID_417_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1390px;
+	top : 687px;
+	width : 24px;
+	height : 14px;
+}
+.XMLID_414_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1362px;
+	top : 701px;
+	width : 42px;
+	height : 40px;
+}
+.XMLID_411_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 959px;
+	top : 724px;
+	width : 10px;
+	height : 4px;
+}
+.XMLID_408_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1327px;
+	top : 761px;
+	width : 11px;
+	height : 11px;
+}
+.XMLID_390_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1333px;
+	top : 780px;
+	width : 16px;
+	height : 12px;
+}
+.XMLID_369_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1292px;
+	top : 821px;
+	width : 41px;
+	height : 37px;
+}
+.XMLID_372_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1181px;
+	top : 810px;
+	width : 10px;
+	height : 11px;
+}
+.XMLID_366_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1239px;
+	top : 823px;
+	width : 39px;
+	height : 34px;
+}
+.XMLID_28_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1279px;
+	top : 859px;
+	width : 41px;
+	height : 12px;
+}
+.XMLID_363_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1331px;
+	top : 836px;
+	width : 22px;
+	height : 22px;
+}
+.XMLID_375_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1347px;
+	top : 795px;
+	width : 26px;
+	height : 17px;
+}
+.XMLID_387_
+{
+	background : #6FC0EC;
+	background : rgba(111, 192, 236, 1);
+	position : absolute ;
+	left : 1292px;
+	top : 781px;
+	width : 8px;
+	height : 8px;
+}
+.XMLID_907_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 892px;
+	top : 528px;
+	width : 57px;
+	height : 31px;
+}
+.XMLID_133_
+{
+	background-image : url(XMLID_133_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1218px;
+	top : 220px;
+	width : 25px;
+	height : 486px;
+}
+.XMLID_236_
+{
+	background-image : url(XMLID_236_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 813px;
+	top : 739px;
+	width : 265px;
+	height : 241px;
+}
+.XMLID_423_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 841px;
+	top : 633px;
+	width : 33px;
+	height : 39px;
+}
+.XMLID_420_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 828px;
+	top : 651px;
+	width : 14px;
+	height : 13px;
+}
+.XMLID_429_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 781px;
+	top : 597px;
+	width : 36px;
+	height : 18px;
+}
+.XMLID_491_
+{
+	background-image : url(XMLID_491_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 829px;
+	top : 578px;
+	width : 189px;
+	height : 148px;
+}
+.XMLID_910_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 928px;
+	top : 526px;
+	width : 43px;
+	height : 9px;
+}
+.XMLID_1_
+{
+	background-image : url(XMLID_1_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1209px;
+	top : 164px;
+	width : 42px;
+	height : 27px;
+}
+.XMLID_22_
+{
+	background-image : url(XMLID_22_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1027px;
+	top : 817px;
+	width : 15px;
+	height : 15px;
+}
+.XMLID_804_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 781px;
+	top : 597px;
+	width : 36px;
+	height : 18px;
+}
+.XMLID_631_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1514px;
+	top : 946px;
+	width : 26px;
+	height : 24px;
+}
+.XMLID_76_
+{
+	background-image : url(XMLID_76_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 898px;
+	top : 206px;
+	width : 26px;
+	height : 484px;
+}
+.XMLID_230_
+{
+	background : #FEDB78;
+	background : rgba(254, 219, 120, 1);
+	position : absolute ;
+	left : 1055px;
+	top : 900px;
+	width : 31px;
+	height : 49px;
+}
+.XMLID_795_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 828px;
+	top : 651px;
+	width : 14px;
+	height : 13px;
+}
+.XMLID_798_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 841px;
+	top : 633px;
+	width : 33px;
+	height : 39px;
+}
+.XMLID_444_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 892px;
+	top : 528px;
+	width : 57px;
+	height : 31px;
+}
+.XMLID_447_
+{
+	background : #B3D787;
+	background : rgba(179, 215, 135, 1);
+	position : absolute ;
+	left : 928px;
+	top : 526px;
+	width : 43px;
+	height : 9px;
+}
+.XMLID_635_
+{
+	background : #FEDB78;
+	background : rgba(254, 219, 120, 1);
+	position : absolute ;
+	left : 1055px;
+	top : 900px;
+	width : 31px;
+	height : 49px;
+}
+.XMLID_200_
+{
+	background-image : url(XMLID_200_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 829px;
+	top : 584px;
+	width : 189px;
+	height : 161px;
+}
+.XMLID_665_
+{
+	background : #FEDB78;
+	background : rgba(254, 219, 120, 1);
+	position : absolute ;
+	left : 1537px;
+	top : 627px;
+	width : 6px;
+	height : 4px;
+}
+.XMLID_368_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1514px;
+	top : 946px;
+	width : 26px;
+	height : 24px;
+}
+.XMLID_109_
+{
+	background-image : url(XMLID_109_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1364px;
+	top : 337px;
+	width : 88px;
+	height : 27px;
+}
+.XMLID_625_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1395px;
+	top : 969px;
+	width : 18px;
+	height : 11px;
+}
+.XMLID_647_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1364px;
+	top : 830px;
+	width : 18px;
+	height : 6px;
+}
+.XMLID_203_
+{
+	background-image : url(XMLID_203_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 813px;
+	top : 738px;
+	width : 265px;
+	height : 240px;
+}
+.XMLID_644_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1369px;
+	top : 836px;
+	width : 76px;
+	height : 29px;
+}
+.XMLID_386_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1369px;
+	top : 836px;
+	width : 76px;
+	height : 29px;
+}
+.XMLID_16_
+{
+	background-image : url(XMLID_16_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 874px;
+	top : 170px;
+	width : 71px;
+	height : 26px;
+}
+.XMLID_638_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1293px;
+	top : 868px;
+	width : 155px;
+	height : 97px;
+}
+.XMLID_165_
+{
+	background-image : url(XMLID_165_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1030px;
+	top : 409px;
+	width : 25px;
+	height : 440px;
+}
+.XMLID_377_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1293px;
+	top : 868px;
+	width : 155px;
+	height : 97px;
+}
+.XMLID_266_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1395px;
+	top : 969px;
+	width : 18px;
+	height : 11px;
+}
+.XMLID_362_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1476px;
+	top : 966px;
+	width : 39px;
+	height : 27px;
+}
+.XMLID_395_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1364px;
+	top : 830px;
+	width : 18px;
+	height : 6px;
+}
+.XMLID_378_
+{
+	background : #FEDB78;
+	background : rgba(254, 219, 120, 1);
+	position : absolute ;
+	left : 1537px;
+	top : 627px;
+	width : 6px;
+	height : 4px;
+}
+.XMLID_257_
+{
+	background-image : url(XMLID_257_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1395px;
+	top : 453px;
+	width : 25px;
+	height : 485px;
+}
+.XMLID_64_
+{
+	background-image : url(XMLID_64_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1013px;
+	top : 362px;
+	width : 74px;
+	height : 27px;
+}
+.XMLID_628_
+{
+	background : #EAAE5C;
+	background : rgba(234, 174, 92, 1);
+	position : absolute ;
+	left : 1476px;
+	top : 966px;
+	width : 39px;
+	height : 27px;
+}

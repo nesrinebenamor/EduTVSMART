@@ -1,0 +1,400 @@
+@charset "utf-8";
+
+body {
+	width: 1920px;
+	height: 1080px;
+	background-image: url("fond.png");
+	position: fixed;
+}
+
+.select_btn {
+	border: solid 4px white;
+	box-shadow: 6px 6px 20px 10px gray;
+}
+
+.main_btn {
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+	.XMLID_8_
+{
+	background-image : url(XMLID_8_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 8px;
+	top : 591px;
+	width : 267px;
+	height : 490px;
+}
+.XMLID_3_
+{
+	background-image : url(XMLID_3_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 64px;
+	top : 38px;
+	width : 257px;
+	height : 169px;
+}
+.XMLID_1_
+{
+	background : #F7E8D0;
+	background : rgba(247, 232, 208, NaN);
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, NaN);
+	border-width : 1px;
+	position : absolute ;
+	left : 1px;
+	top : 2px;
+	width : 1920px;
+	height : 1079px;
+}
+.Styledecaractresnormal3
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 79px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal2
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 141px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal1
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 35px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal
+{
+	font-family : Myriad Pro;
+	font-size : 35px;
+	line-height : NaNpx;
+	letter-spacing : NaNpx;
+	position : relative;
+	top : NaNpx;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.XMLID_211_
+{
+	background : #71CCF3;
+	background : rgba(113, 204, 243, NaN);
+	position : absolute ;
+	left : 1429px;
+	top : 846px;
+	width : 38px;
+	height : 39px;
+}
+.XMLID_239_
+{
+	background-image : url(XMLID_239_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1530px;
+	top : 862px;
+	width : 23px;
+	height : 27px;
+}
+.XMLID_241_
+{
+	background-image : url(XMLID_241_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1538px;
+	top : 835px;
+	width : 38px;
+	height : 18px;
+}
+#btn_2
+{
+	background-image : url(XMLID_185_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1427px;
+	top : 356px;
+	width : 198px;
+	height : 200px;
+}
+.XMLID_100_
+{
+	background-image : url(XMLID_100_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 352px;
+	top : 369px;
+	width : 164px;
+	height : 101px;
+}
+.XMLID_102_
+{
+	background-image : url(XMLID_102_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 595px;
+	top : 289px;
+	width : 178px;
+	height : 189px;
+}
+#btn_1
+{
+	background-image : url(XMLID_154_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 696px;
+	top : 643px;
+	width : 149px;
+	height : 149px;
+}
+.XMLID_253_
+{
+	background-image : url(XMLID_253_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1375px;
+	top : 816px;
+	width : 35px;
+	height : 11px;
+}
+.XMLID_92_
+{
+	background-image : url(XMLID_92_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 756px;
+	top : 228px;
+	width : 627px;
+	height : 741px;
+}
+.XMLID_214_
+{
+	background : #F15B5C;
+	background : rgba(241, 91, 92, NaN);
+	position : absolute ;
+	left : 1509px;
+	top : 834px;
+	width : 38px;
+	height : 39px;
+}
+.XMLID_228_
+{
+	background : #71CCF3;
+	background : rgba(113, 204, 243, NaN);
+	position : absolute ;
+	left : 1534px;
+	top : 798px;
+	width : 16px;
+	height : 17px;
+}
+.XMLID_243_
+{
+	background-image : url(XMLID_243_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1526px;
+	top : 805px;
+	width : 19px;
+	height : 39px;
+}
+.XMLID_230_
+{
+	background : #71CCF3;
+	background : rgba(113, 204, 243, NaN);
+	position : absolute ;
+	left : 1431px;
+	top : 907px;
+	width : 25px;
+	height : 26px;
+}
+.XMLID_249_
+{
+	background-image : url(XMLID_249_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1421px;
+	top : 815px;
+	width : 30px;
+	height : 53px;
+}
+.XMLID_245_
+{
+	background-image : url(XMLID_245_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1453px;
+	top : 851px;
+	width : 76px;
+	height : 18px;
+}
+.XMLID_213_
+{
+	background : #F15B5C;
+	background : rgba(241, 91, 92, NaN);
+	position : absolute ;
+	left : 1404px;
+	top : 796px;
+	width : 38px;
+	height : 39px;
+}
+.XMLID_229_
+{
+	background : #F15B5C;
+	background : rgba(241, 91, 92, NaN);
+	position : absolute ;
+	left : 1562px;
+	top : 824px;
+	width : 25px;
+	height : 26px;
+}
+.XMLID_233_
+{
+	background : #71CCF3;
+	background : rgba(113, 204, 243, NaN);
+	position : absolute ;
+	left : 1456px;
+	top : 788px;
+	width : 30px;
+	height : 31px;
+}
+.XMLID_227_
+{
+	background : #71CCF3;
+	background : rgba(113, 204, 243, NaN);
+	position : absolute ;
+	left : 1542px;
+	top : 878px;
+	width : 16px;
+	height : 17px;
+}
+.XMLID_234_
+{
+	background : #F15B5C;
+	background : rgba(241, 91, 92, NaN);
+	position : absolute ;
+	left : 1407px;
+	top : 749px;
+	width : 25px;
+	height : 26px;
+}
+.XMLID_209_
+{
+	background-image : url(XMLID_209_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1602px;
+	top : 231px;
+	width : 138px;
+	height : 137px;
+}
+.XMLID_257_
+{
+	background-image : url(XMLID_257_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1418px;
+	top : 763px;
+	width : 5px;
+	height : 43px;
+}
+.XMLID_232_
+{
+	background : #71CCF3;
+	background : rgba(113, 204, 243, NaN);
+	position : absolute ;
+	left : 1363px;
+	top : 811px;
+	width : 24px;
+	height : 25px;
+}
+.XMLID_186_
+{
+	background-image : url(XMLID_186_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1245px;
+	top : 143px;
+	width : 371px;
+	height : 236px;
+}
+.XMLID_231_
+{
+	background : #F15B5C;
+	background : rgba(241, 91, 92, NaN);
+	position : absolute ;
+	left : 1387px;
+	top : 875px;
+	width : 25px;
+	height : 26px;
+}
+.XMLID_247_
+{
+	background-image : url(XMLID_247_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1441px;
+	top : 874px;
+	width : 7px;
+	height : 47px;
+}
+.XMLID_144_
+{
+	background-image : url(XMLID_144_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 474px;
+	top : 489px;
+	width : 163px;
+	height : 187px;
+}
+.XMLID_212_
+{
+	background-image : url(XMLID_212_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1653px;
+	top : 502px;
+	width : 205px;
+	height : 238px;
+}
+.XMLID_251_
+{
+	background-image : url(XMLID_251_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1399px;
+	top : 871px;
+	width : 37px;
+	height : 20px;
+}
+.XMLID_255_
+{
+	background-image : url(XMLID_255_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1427px;
+	top : 801px;
+	width : 45px;
+	height : 17px;
+}

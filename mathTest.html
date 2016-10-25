@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>m4maths</title>
+<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/TVKeyValue.js"></script>
+<link rel="stylesheet" type="text/css" href="cssMathTest/main.css" />
+<script src="js/mathTest.js"></script>
+<SCRIPT>
+		
+</SCRIPT>
+</head>
+<body>
+<header>
+M4Maths
+</header>
+<div data-role="page" id="homepage" class="active">
+    <input type="text" placeholder="Player Name" id="player"/>
+    
+	<section  class="tabs" onclick="rockit('easy')">
+	<div id="easyback" class="mainimg"></div><div class="text">EASY</div>
+	</section>	
+	<section class="tabs" onclick="rockit('normal')">
+	<div id="normalback" class="mainimg"> </div><div class="text">NORMAL</div>
+	</section>	
+        <section class="tabs" onclick="rockit('hard')"> 
+	<div id="expertback" class="mainimg"></div><div class="text">EXPERT</div>
+	</section>
+</div>
+<div data-role="page" id="question">
+    <div class="problem-cover"><section id="problem" class="tabs"></section><img src="cssMathTest/q.png"></div>
+    <section id="options">
+        <div id="opt1" class="answer tabs"></div>
+        <div id="opt2" class="answer tabs"></div>
+        <div id="timer"></div>
+    </section>
+</div>
+<div data-role="page" id="result"></div>    
+</body>
+</html>

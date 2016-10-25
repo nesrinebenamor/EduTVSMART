@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Games, Movies, and Miscellaneous!</title>
+	<script type="text/javascript" src="../js/jquery-1.9.1.js"></script>
+	<script type="text/javascript" src="../js/TVKeyValue.js"></script>
+	<link href='https://fonts.googleapis.com/css?family=Press+Start+2P' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+	
+	
+	
+	<link rel="stylesheet" href="algebra.css">
+	<script type="text/javascript" src="algebra.js"></script>
+	
+</head>
+<body>
+<!-- START PAGE FOR THE QUIZ -->
+
+<!--
+
+<div class="container text-center StartPage">
+<center>
+	<h2 class="Score"></h2>
+	<button class="StartButton">Start</button>*
+</center>
+</div>
+
+<div class="container text-center QuestionPage">
+<center>
+	<h1 class="Question"></h1>
+	<h2 class="TimeLeft">15</h2>
+	<button class="choice0 bt"></button><br>
+	<button class="choice1 bt"></button><br>
+	<button class="choice2 bt"></button><br>
+	<button class="choice3 bt"></button><br>
+</center>
+</div>
+
+<div class="container text-center GameOver">
+<center>
+	<h2 class="OverMessage">GAME OVER!</h2>
+	<h2 class="Score"></h2>
+	<button class="ResetGame">Play Again</button>
+</center>
+</div>
+-->
+
+
+<div data-role="page" id="homepage" class="active">
+    <!--  <input type="text" placeholder="Player Name" id="player"/> -->
+    
+    <!--  
+    <center>
+	<button style="margin-top: 200px" class="StartButton">Easy</button>
+	<button class="StartButton">Normal</button>
+	<button class="StartButton">Hard</button>
+	</center>
+	-->
+	
+	<section style=" margin: 300px 0 50px 0;" onclick="rockit('easy')">
+	<button class="StartButton">Easy</button>
+	<div style="top: 300px;" id="easyback" class="mainimg"></div>
+	</section>
+	
+	<section onclick="rockit('normal')">
+	<button class="StartButton">Normal</button>
+	<div style="top: 520px;" id="normalback" class="mainimg"> </div>
+	</section>
+	
+
+    <section onclick="rockit('hard')"> 
+    <button class="StartButton">Hard</button>
+	<div style="top: 740px;" id="expertback" class="mainimg"></div>
+	
+	</section>
+	
+</div>
+
+<div data-role="page" id="question">
+    <div class="problem-cover">
+    <section id="problem" class="tabs"></section><img src="../cssMathTest/q.png"></div>
+   
+    <section id="options" >
+    <center>
+        <div id="opt1" style="margin-top: 50px" class="answer StartButton"></div>
+        <div id="opt2" style="margin-top: 50px" class="answer StartButton"></div>     
+        </center>
+    </section>
+    
+</div>
+<div style="left: 500px;" data-role="page" id="result"></div>   
+</body>
+</html>

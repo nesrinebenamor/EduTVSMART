@@ -1,0 +1,354 @@
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 620px;
+    top: 350px;
+  
+    overflow: auto; /* Enable scroll if needed */
+   /* background-color: rgb(0,0,0); /* Fallback color */
+   /* background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+   height: 500px;
+   width: 700px;
+}
+
+/* Modal Header */
+.modal-header {
+    padding: 2px 16px;
+    background-color: #b0de78;
+    color: white;
+    font-size: 40;
+}
+
+/* Modal Body */
+.modal-body {padding: 2px 16px;}
+
+/* Modal Footer */
+.modal-footer {
+    padding: 2px 16px;
+    background-color: #b0de78;
+    color: white;
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top: -300px; opacity: 0} 
+    to {top: 0; opacity: 1}
+}
+
+@keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: 0; opacity: 1}
+}
+
+
+#result .tabs b{text-transform: uppercase;}
+#result img{width:100%;}
+#result .tabs{margin:0;color:#fff;}
+[data-role="page"]{display:none;padding:10px;}
+
+.ui-widget {
+    font-family: Verdana,Arial,sans-serif;
+    font-size: .8em;
+
+   
+}
+
+.ui-widget-content {
+    background: #F9F9F9;
+    border: 1px solid #90d93f;
+    color: #222222;
+}
+
+.ui-dialog {
+    left: 0;
+    outline: 0 none;
+    padding: 0 !important;
+    position: absolute;
+    top: 0;
+}
+
+#success {
+    padding: 0;
+    margin: 0; 
+}
+
+.ui-dialog .ui-dialog-content {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    overflow: auto;
+    position: relative;
+    padding: 0 !important;
+}
+
+.ui-widget-header {
+    background: #b0de78;
+    border: 0;
+    color: #fff;
+    font-weight: normal;
+    font-size: 40px;
+    text-align: center;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    padding: 0.1em .5em;
+    position: relative;
+    font-size: 2em;
+}
+
+.ui-dialog.success-dialog {
+    font-family: Verdana,Arial,sans-serif;
+    font-size: .9em;
+}
+
+
+h1 {
+	color: white;
+	margin-top: 200px;
+
+}
+
+body {
+	width: 1920px;
+	height: 1080px;
+	position:fixed;
+	background-image: url("fond.jpg");
+}
+
+#player
+{
+margin:25px;
+height: 40px;
+width: 450px;
+font-size: 30px;
+}
+.select_btn {
+	border: solid 4px white;
+	box-shadow: 6px 6px 20px 10px gray;
+}
+
+.main_btn {
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+#btn_1 {
+	background-image: url(XMLID_105_.png);
+	left: 603px;
+	top: 703px;
+	width: 183px;
+	height: 174px;
+}
+
+#btn_4 {
+	background-image: url(XMLID_160_.png);
+	left: 1443px;
+	top: 80px;
+	width: 183px;
+	height: 174px;
+}
+
+#btn_6 {
+	background-image: url(XMLID_169_.png);
+	left: 1423px;
+	top: 548px;
+	width: 177px;
+	height: 181px;
+}
+
+#btn_7 {
+	background-image: url(XMLID_189_.png);
+	left: 1422px;
+	top: 814px;
+	width: 177px;
+	height: 181px;
+}
+
+#btn_5 {
+	background-image: url(XMLID_236_.png);
+	left: 1436px;
+	top: 323px;
+	width: 182px;
+	height: 174px;
+}
+
+#btn_2 {
+	background-image: url(XMLID_32_.png);
+	left: 432px;
+	top: 465px;
+	width: 185px;
+	height: 179px;
+}
+
+#btn_3 {
+	background-image: url(XMLID_99_.png);
+	left: 432px;
+	top: 260px;
+	width: 185px;
+	height: 179px;
+}
+
+#btn_8 {
+	background-image: url(login.png);
+	left: 60px;
+	top: 300px;
+	width: 140px;
+	height: 133px;
+}
+
+#btn_9 {
+	background-image: url(about.png);
+	left: 60px;
+	top: 450px;
+	width: 140px;
+	height: 133px;
+}
+
+.XMLID_282_ {
+	background-image: url(XMLID_282_.png);
+	background-repeat: no-repeat; position : absolute;
+	left: 1230px;
+	top: 575px;
+	width: 152px;
+	height: 49px;
+	position: absolute;
+}
+
+.XMLID_13_ {
+	background-image: url(XMLID_13_.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 943px;
+	top: 43px;
+	width: 167px;
+	height: 964px;
+}
+
+.XMLID_134_ {
+	background-image: url(XMLID_134_.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 666px;
+	top: 498px;
+	width: 158px;
+	height: 44px;
+}
+
+.XMLID_127_ {
+	background-image: url(XMLID_127_.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 629px;
+	top: 290px;
+	width: 283px;
+	height: 49px;
+}
+
+.XMLID_175_ {
+	background-image: url(XMLID_175_.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 826px;
+	top: 695px;
+	width: 152px;
+	height: 62px;
+}
+
+.XMLID_270_ {
+	background-image: url(XMLID_270_.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1241px;
+	top: 119px;
+	width: 155px;
+	height: 49px;
+}
+
+.XMLID_263_ {
+	background-image: url(XMLID_263_.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1253px;
+	top: 355px;
+	width: 130px;
+	height: 47px;
+}
+
+.XMLID_142_ {
+	background: #99C2E7;
+	background: rgba(153, 194, 231, NaN);
+	position: absolute;
+	left: 569px;
+	top: 668px;
+	width: 186px;
+	height: 175px;
+}
+
+.XMLID_1_ {
+	background: #F7E8CF;
+	background: rgba(247, 232, 207, NaN);
+	border-style: Solid;
+	border-color: #231F20;
+	border-color: rgba(35, 31, 32, NaN);
+	border-width: 1px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1920px;
+	height: 1079px;
+}
+
+.XMLID_275_ {
+	background-image: url(XMLID_275_.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 1220px;
+	top: 847px;
+	width: 196px;
+	height: 45px;
+}
+
+.XMLID_3_ {
+	background: #F7E8CF;
+	background: rgba(247, 232, 207, NaN);
+	border-style: Solid;
+	border-color: #231F20;
+	border-color: rgba(35, 31, 32, NaN);
+	border-width: 1px;
+	position: absolute;
+	left: 892px;
+	top: 372px;
+	width: 0px;
+	height: 7px;
+}

@@ -1,0 +1,185 @@
+@charset "utf-8";
+
+body {
+	width: 1920px;
+	height: 1080px;
+	background-image: url("fond.png");
+	position: fixed;
+}
+
+.select_btn {
+	border: solid 4px white;
+	box-shadow: 6px 6px 20px 10px gray;
+}
+
+.main_btn {
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+	.XMLID_35_
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	position : absolute ;
+	left : 834px;
+	top : 244px;
+	width : 175px;
+	height : 135px;
+}
+.XMLID_8_
+{
+	background-image : url(XMLID_8_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 8px;
+	top : 591px;
+	width : 267px;
+	height : 490px;
+}
+.XMLID_3_
+{
+	background-image : url(XMLID_3_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 64px;
+	top : 38px;
+	width : 257px;
+	height : 169px;
+}
+.XMLID_1_
+{
+	background : #F7E8D0;
+	background : rgba(247, 232, 208, 1);
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 2px;
+	top : 4px;
+	width : 1920px;
+	height : 1079px;
+}
+.XMLID_34_
+{
+	background : #FBD38B;
+	background : rgba(251, 211, 139, 1);
+	position : absolute ;
+	left : 813px;
+	top : 247px;
+	width : 263px;
+	height : 174px;
+}
+.XMLID_38_
+{
+	background : #DC6964;
+	background : rgba(220, 105, 100, 1);
+	position : absolute ;
+	left : 824px;
+	top : 577px;
+	width : 241px;
+	height : 258px;
+}
+.XMLID_36_
+{
+	background : #EEB01E;
+	background : rgba(238, 176, 30, 1);
+	position : absolute ;
+	left : 816px;
+	top : 372px;
+	width : 256px;
+	height : 252px;
+}
+.XMLID_37_
+{
+	background : #91CADF;
+	background : rgba(145, 202, 223, 1);
+	position : absolute ;
+	left : 810px;
+	top : 795px;
+	width : 256px;
+	height : 182px;
+}
+.XMLID_4_
+{
+	background-image : url(XMLID_4_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 363px;
+	top : 322px;
+	width : 389px;
+	height : 326px;
+}
+.XMLID_12_
+{
+	background-image : url(XMLID_12_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1077px;
+	top : 356px;
+	width : 320px;
+	height : 470px;
+}
+#btn_1
+{
+	background-image : url(XMLID_14_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 715px;
+	top : 576px;
+	width : 45px;
+	height : 130px;
+}
+#btn_2
+{
+	background-image : url(XMLID_5_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1121px;
+	top : 670px;
+	width : 130px;
+	height : 45px;
+}
+.XMLID_67_
+{
+	background-image : url(XMLID_67_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 795px;
+	top : 244px;
+	width : 295px;
+	height : 733px;
+}
+.Styledecaractresnormal3
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 79px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal2
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 141px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal1
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 35px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 35px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}

@@ -1,0 +1,193 @@
+@charset "utf-8";
+
+body {
+	width: 1920px;
+	height: 1080px;
+	background-image: url("fond.png");
+	position: fixed;
+}
+
+.select_btn {
+	border: solid 4px white;
+	box-shadow: 6px 6px 20px 10px gray;
+}
+
+.main_btn {
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+	.XMLID_101_
+{
+	background-image : url(XMLID_101_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1225px;
+	top : 463px;
+	width : 119px;
+	height : 46px;
+}
+.XMLID_32_
+{
+	background-image : url(XMLID_32_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 728px;
+	top : 288px;
+	width : 665px;
+	height : 707px;
+}
+.XMLID_16_
+{
+	background-image : url(XMLID_16_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 768px;
+	top : 428px;
+	width : 128px;
+	height : 136px;
+}
+#btn_3
+{
+	background-image : url(XMLID_41_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1303px;
+	top : 796px;
+	width : 66px;
+	height : 64px;
+}
+#btn_2
+{
+	background-image : url(XMLID_35_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1355px;
+	top : 395px;
+	width : 77px;
+	height : 78px;
+}
+#btn_1
+{
+	background-image : url(XMLID_17_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 690px;
+	top : 399px;
+	width : 73px;
+	height : 74px;
+}
+.XMLID_52_
+{
+	background-image : url(XMLID_52_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 726px;
+	top : 783px;
+	width : 51px;
+	height : 53px;
+}
+.XMLID_53_
+{
+	background-image : url(XMLID_53_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1227px;
+	top : 683px;
+	width : 100px;
+	height : 119px;
+}
+.XMLID_8_
+{
+	background-image : url(XMLID_8_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 8px;
+	top : 591px;
+	width : 267px;
+	height : 490px;
+}
+.XMLID_3_
+{
+	background-image : url(XMLID_3_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 64px;
+	top : 38px;
+	width : 257px;
+	height : 169px;
+}
+.XMLID_15_
+{
+	background-image : url(XMLID_15_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1000px;
+	top : 572px;
+	width : 121px;
+	height : 122px;
+}
+.XMLID_14_
+{
+	background : #BBBBBA;
+	background : rgba(187, 187, 186, 1);
+	position : absolute ;
+	left : 1628px;
+	top : 447px;
+	width : 2px;
+	height : 5px;
+}
+.XMLID_1_
+{
+	background : #F7E8D0;
+	background : rgba(247, 232, 208, 1);
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 0px;
+	top : 0px;
+	width : 1920px;
+	height : 1080px;
+}
+.Styledecaractresnormal4
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 79px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal3
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 141px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal2
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 37px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal1
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 37px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 37px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}

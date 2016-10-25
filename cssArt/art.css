@@ -1,0 +1,118 @@
+@charset "utf-8";
+body {
+	width: 1920px;
+	height: 1080px;
+	background-image: url("fond.png");
+	position: fixed;
+}
+
+.select_btn {
+	border: solid 4px white;
+	box-shadow: 6px 6px 20px 10px gray;
+}
+
+.main_btn {
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+#btn_2
+{
+	background-image : url(XMLID_12_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 434px;
+	top : 200px;
+	width : 400px;
+	height : 372px;
+}
+#btn_4
+{
+	background-image : url(XMLID_16_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1103px;
+	top : 539px;
+	width : 517px;
+	height : 516px;
+}
+#btn_1
+{
+	background-image : url(XMLID_11_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 350px;
+	top : 532px;
+	width : 342px;
+	height : 426px;
+}
+.XMLID_8_
+{
+	background-image : url(XMLID_8_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 8px;
+	top : 591px;
+	width : 267px;
+	height : 490px;
+}
+.XMLID_3_
+{
+	background-image : url(XMLID_3_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 64px;
+	top : 38px;
+	width : 257px;
+	height : 169px;
+}
+#btn_3
+{
+	background-image : url(XMLID_15_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1002px;
+	top : 199px;
+	width : 384px;
+	height : 373px;
+}
+.XMLID_1_
+{
+	background : #F7E8D0;
+	background : rgba(247, 232, 208, 1);
+	border-style : Solid;
+	border-color : #231F20;
+	border-color : rgba(35, 31, 32, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 2px;
+	top : 4px;
+	width : 1920px;
+	height : 1080px;
+}
+.XMLID_18_
+{
+	background-image : url(XMLID_18_.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 706px;
+	top : 441px;
+	width : 549px;
+	height : 523px;
+}
+.Styledecaractresnormal1
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 79px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.Styledecaractresnormal
+{
+	font-family : Agency FB;
+	font-weight : bold;
+	font-size : 141px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
